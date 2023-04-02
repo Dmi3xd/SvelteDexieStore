@@ -1,0 +1,2 @@
+# SvelteDexieStore
+Created with CodeSandbox
